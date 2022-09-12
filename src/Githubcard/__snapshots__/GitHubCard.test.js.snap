@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/Paul_Rudish_Mickey_Mouse.png/220px-Paul_Rudish_Mickey_Mouse.png"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Mickey Mouse
+      </div>
+      <p
+        className="card-text"
+      >
+        I am a cartoon character and am one of the world's most recognizable fictional characters.
+      </p>
+    </div>
+  </div>
+</div>
+`;
